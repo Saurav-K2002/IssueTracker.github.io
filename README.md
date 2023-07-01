@@ -137,7 +137,7 @@ Experience the magic of **Buggo** for yourself! Join buggo today and discover a 
 
 #### Clone Locally
 
-- Enter this url: [https://github.com/okoyecharles/buggo](https://github.com/okoyecharles/buggo) in your web browser.
+- Enter this url:https://saurav-k2002.github.io/IssueTracker.github.io/ in your web browser.
 - Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
 - Select download Zip option from drop down menu.
 - Once the download is complete you will be able to access my project locally.
