@@ -10,10 +10,6 @@
   <h5 align="center">
     <br />
     <a href="https://buggo.vercel.app/" target="_blank">View Live</a>
-    |
-    <a href="https://github.com/okoyecharles/buggo/issues/new" target="_blank">Report Bug</a>
-    |
-    <a href="https://github.com/okoyecharles/buggo/issues/new" target="_blank">Request Feature</a>
   </h5>
 </div>
 
@@ -227,14 +223,9 @@ Please be advised that our project is released under the terms of a License. Ple
 
 ### Contact
 
-#### Okoye Charles
 
  <div align="center">
- <a href="https://www.linkedin.com/in/charles-k-okoye/"><img src="https://img.shields.io/badge/linkedin-%23f78a38.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> 
- <a href="https://twitter.com/okoyecharles_"><img src="https://img.shields.io/badge/Twitter-%23f78a38.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a> 
- <a href="https://github.com/okoyecharles/"><img src="https://img.shields.io/badge/github-%23f78a38.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a> 
- <a href="https://angel.co/u/charles-k-okoye"><img src="https://img.shields.io/badge/AngelList-%23f78a38.svg?style=for-the-badge&logo=AngelList&logoColor=white" alt="AngelList"></a> 
- <a href="mailto:okoyecharles509@gmail.com"><img src="https://img.shields.io/badge/Gmail-f78a38?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin"></a>
+ 
  </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
